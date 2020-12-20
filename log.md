@@ -5,7 +5,7 @@
 
 **Today's Progress**: Preparing environment: 
 * updated Windows to latest feature update
-* installed WSL2
+* installed ~~WSL2~~ WSL (apparently WSL2 doesn't work with my Comodo Firewall though a patch is on it's way I'll just start with WSL which also works pretty well)
 * installed OpenSuse (I already use Ubuntu at work so it's time for a change)
 * installed rbenv, Ruby, git, etc ...
 
