@@ -17,3 +17,11 @@
 * [Build-essentials on OpenSuse](https://forums.opensuse.org/showthread.php/413553-Build-Essential)
 * [Install WSL2](https://www.windowscentral.com/how-install-wsl2-windows-10)
 * [Using SSH keys](https://docs.github.com/en/free-pro-team@latest/github/authenticating-to-github/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)
+
+### Day 1: Monday December 21, 2020
+
+**Today's Progress**: Spend about 1,5h on it. Wrote very little Ruby code because my VSCode setup was still very basic and needed some tweaking. On the plus-side, I already wrote one unit test and I can run all my Ruby code with just a simple CTRL+ALT+N command in VSCode.
+
+**Thoughts:** I still feel the headache from yesterday and my fingers are freezing off because I have the window open for some fresh air. I'm glad I have a silly project to work on and I hope to learn a lot from it. I've decided to dedicate myself to a no-zero days style instead of the very strict 1h rule.
+
+**Link to work:**  [Todays commit](https://github.com/PW999/5e-dice-roller/commit/b7c398960be6fd8e16cede079e0db5b5f2ac287c)
