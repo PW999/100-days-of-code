@@ -38,3 +38,8 @@
 
 **Today's Progress**: Skipped today. Wednesday is family day, my mom is the only person I get to see during this pandemic so I'm not going to sacrifice it for some Ruby code. Will probably skip more Wednesdays.
 
+### Day 4: Thursday December 24, 2020
+
+**Today's Progress**: Spent some time on making my code cleaner. Started on working on a parser for the user input but progress is slow as I still need to figure out how to parse it.
+
+**Thoughts:** I start to get how Ruby can be used to write as little code as possible (which does not mean the most readable code). With every line of Ruby I write I have the feeling that I loose a bit of feeling with Java. TDD is nice but, especially for little projects like these.
