@@ -33,3 +33,8 @@
 **Thoughts:** First day I'm doing this _after_ a working day. It already was a long day with lots of issues to investigate so I was kind of not in the mood but I didn't want to fail on my second day so I fired up my laptop anyway. It felt like I had already forgotten everything and I'm constantly using Java syntax in my Ruby code, but luckily the Linter warns me in time. Unit tests also save me a lot of time (though I wrote my code first and then my tests, which is kind of bad).
 
 **Link to work:**  [Todays commit](https://github.com/PW999/5e-dice-roller/commit/b7c398960be6fd8e16cede079e0db5b5f2ac287c) and a second one since I was in the mood to do some more work [click](https://github.com/PW999/5e-dice-roller/commit/7f436204bb3eaa20804e8460617919419e18e196)
+
+### Day 3: Wednesday December 23, 2020
+
+**Today's Progress**: Skipped today. Wednesday is family day, my mom is the only person I get to see during this pandemic so I'm not going to sacrifice it for some Ruby code. Will probably skip more Wednesdays.
+
