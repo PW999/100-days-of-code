@@ -26,7 +26,7 @@
 
 **Link to work:**  [Todays commit](https://github.com/PW999/5e-dice-roller/commit/b7c398960be6fd8e16cede079e0db5b5f2ac287c) and a second one since I was in the mood to do some more work [click](https://github.com/PW999/5e-dice-roller/commit/7f436204bb3eaa20804e8460617919419e18e196)
 
-### Day 2: Monday December 22, 2020
+### Day 2: Tuesday December 22, 2020
 
 **Today's Progress**: Worked on a system to roll multiple dice, with advantage or disadvantage. Seems to work as it should. I kind of cheated with the mocks in my unit tests by exposing a method to inject these mocks (but it's not production code anyway). I didn't want to start using RSpec or Minitest yet, I first want to "master" the basics of unit tests in Ruby.
 
