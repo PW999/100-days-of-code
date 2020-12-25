@@ -43,3 +43,9 @@
 **Today's Progress**: Spent some time on making my code cleaner. Started on working on a parser for the user input but progress is slow as I still need to figure out how to parse it.
 
 **Thoughts:** I start to get how Ruby can be used to write as little code as possible (which does not mean the most readable code). With every line of Ruby I write I have the feeling that I loose a bit of feeling with Java. TDD is nice but, especially for little projects like these.
+
+### Day 5: Fridayy December 25, 2020
+
+**Today's Progress**: The dice roller now works. Next step is to extend is so that we can define which damage is rolled.
+
+**Thoughts:** I get the feeling that Ruby isn't always the most consistent language but that might just be me. I do get to like it more though and I'm also starting to get the hang of Visual Studio Code.
