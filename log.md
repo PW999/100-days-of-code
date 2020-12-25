@@ -44,8 +44,12 @@
 
 **Thoughts:** I start to get how Ruby can be used to write as little code as possible (which does not mean the most readable code). With every line of Ruby I write I have the feeling that I loose a bit of feeling with Java. TDD is nice but, especially for little projects like these.
 
-### Day 5: Fridayy December 25, 2020
+### Day 5: Friday December 25, 2020
 
-**Today's Progress**: The dice roller now works. Next step is to extend is so that we can define which damage is rolled.
+**Today's Progress**: The dice roller now works. Next step is to extend is so that we can define which damage is rolled. Since there's not much to do on a lock-down Christmas I decided to spend some more time getting an old project back-up and running: J-ExifTool.
 
 **Thoughts:** I get the feeling that Ruby isn't always the most consistent language but that might just be me. I do get to like it more though and I'm also starting to get the hang of Visual Studio Code.
+
+Java Integration kind of works but it'll probably never be as good as IntelliJ or Eclipse (though it's so much faster than Eclipse in any aspect :) ). I feel more comfy hacking on an old Java project than using Ruby (but that's probably because I lack the Ruby experience).
+
+**Link to work:** [Revival branch](https://bitbucket.org/P_W999/j-exiftool/branches/compare/feature/21..)
