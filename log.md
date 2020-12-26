@@ -53,3 +53,10 @@
 Java Integration kind of works but it'll probably never be as good as IntelliJ or Eclipse (though it's so much faster than Eclipse in any aspect :) ). I feel more comfy hacking on an old Java project than using Ruby (but that's probably because I lack the Ruby experience).
 
 **Link to work:** [Revival branch](https://bitbucket.org/P_W999/j-exiftool/branches/compare/feature/21..)
+
+### Day 6: Saturday December 26, 2020
+**Today's Progress**: Back to Ruby. I started the Advent of Code 2020 challenge (the day _after_ Christmas ...) and they are great little challenges to learn Ruby. I finished the 4 challenges of the first 2 days without any error (in the result, not the code :) )
+
+**Thoughts:**: Not sure if I spent an hour on coding but I had a great time and that's what counts I guess.
+
+**Link to work:** [AoC 2020 Repo](https://github.com/PW999/AoC2020/)
