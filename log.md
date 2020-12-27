@@ -60,3 +60,26 @@ Java Integration kind of works but it'll probably never be as good as IntelliJ o
 **Thoughts:**: Not sure if I spent an hour on coding but I had a great time and that's what counts I guess.
 
 **Link to work:** [AoC 2020 Repo](https://github.com/PW999/AoC2020/)
+
+### Day 7: Sunday December 27, 2020
+**Today's Progress**: More Ruby today but I'm working on my dice roller. I've added parsing of the advantage/disadvantage modifier and improved the general code quality a bit using Rubocop.
+
+**Thoughts:**: A bit a longer thought today, looking back at the previous week. 
+
+There are a couple of reasons I started this challenge:
+1. There's not much to do during this global pandemic so I have a lot of spare time that I want to spend on something I like
+2. I started a new job in March and they (we) use Ruby a lot in our CI/CD pipelines so I want to learn Ruby
+3. I want to improve my general coding skils
+4. I want to see if Visual Studio code is actually *that* good.
+
+As for the number 1, having at least an hour a day that I can spend on coding is a good use of my extra spare time. I have to be honest that in the past 1,5 I have had my doubts about my job as a coder (due to loads of stress) so spending some stress-free time on coding only made me realize I still like it, I just don't like the stressy environments (hence the reason I quit consultancy).
+
+For the second item on the list, I can already tell you that I learned a lot and there's so much that I've learned that I want to take with me in my day2day job. Ruby is a bit a quirky language if you come from Java, but that's why I love it, it's nothing like Java. Being only at the 14th place in the list of popular technologies of the (2020 Stackoverflow Survey)[https://insights.stackoverflow.com/survey/2020#technology-programming-scripting-and-markup-languages-all-respondents] it certainly isn't the most popular technology to working in, but I don't mind that. 
+
+It's only been a week but I'm starting to get the hang of Ruby so I *think* my Ruby skills are already improving. I'm also starting to appreciate Linters a lot more, they are a PITA and slow you down at first but they do give the immediate feedback you need (and will never get from a code review). 
+
+For the last part ... well it's not *bad*. It's versatile and works with a lot of languages and it's actually pretty stable and fast. I'm still not a fan of the Java integration, IntelliJ (Ultimate) and Eclipse just do it better. For small projects like J-ExifTool it should be sufficient I guess but I can't image developing our Spring Boot micro-service in VSCode. 
+
+One side-note I want to add, I'm still a bit of a cheater since I didn't participate in the online community thing of the #100DaysOfCode challenge (didn't tweet a lot about it either), but the most important thing is that I'm still doing it. Second, I'm also going to skip every Wednesday but count them as actual days of the challenge so instead it'll probably be a #115DaysOfCOde for me 🙂
+
+**Link to work:** [Ruby Dice Roller](https://github.com/PW999/5e-dice-roller)
