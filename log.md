@@ -83,3 +83,10 @@ For the last part ... well it's not *bad*. It's versatile and works with a lot o
 One side-note I want to add, I'm still a bit of a cheater since I didn't participate in the online community thing of the #100DaysOfCode challenge (didn't tweet a lot about it either), but the most important thing is that I'm still doing it. Second, I'm also going to skip every Wednesday but count them as actual days of the challenge so instead it'll probably be a #115DaysOfCOde for me 🙂
 
 **Link to work:** [Ruby Dice Roller](https://github.com/PW999/5e-dice-roller)
+
+### Day 8: Monday December 28, 2020
+**Today's Progress**: Worked on Advent of Code 2020 Day 4 today.
+
+**Thoughts:**: I wasn't as motived as usual, I don't know why but it took me a while before I finally wanted to start. Yesterday I also completed day 3 in AoC and today day 4 and both days were a lot of trial-and-error (okay, not really but got a few wrong answers).
+
+Maybe it's the perfectionist in me that doesn't like me getting wrong answers. I'm probably even more offset because I just read that some people spent 12 min on day 4, just jabbing some code in a JS console and I'm here working my ass off for an hour just to get wrong answers. But that's just my personallity, hopefully I'm still motivated tomorrow after another day of work.
