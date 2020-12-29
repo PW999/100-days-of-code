@@ -90,3 +90,8 @@ One side-note I want to add, I'm still a bit of a cheater since I didn't partici
 **Thoughts:**: I wasn't as motived as usual, I don't know why but it took me a while before I finally wanted to start. Yesterday I also completed day 3 in AoC and today day 4 and both days were a lot of trial-and-error (okay, not really but got a few wrong answers).
 
 Maybe it's the perfectionist in me that doesn't like me getting wrong answers. I'm probably even more offset because I just read that some people spent 12 min on day 4, just jabbing some code in a JS console and I'm here working my ass off for an hour just to get wrong answers. But that's just my personallity, hopefully I'm still motivated tomorrow after another day of work.
+
+### Day 9: Monday December 29, 2020
+**Today's Progress**: Today I've spent some time on further upgrading J-Exiftool to 2020 (and now I realize that's stupid because 2020 is about to end 😅)
+
+**Thoughts:**: Somehow I have the feeling that updating J-Exiftool is a bit cheating. Java is my main language and updating some dependencies and doing small code improvements isn't exactly a big challenge right. Still, after a long day of working (and hardly getting the chance to write some code) I'm still happy to be coding without any strings attached. 
