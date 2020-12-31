@@ -3,7 +3,7 @@
 ### Day 0: December 20, 2020
 
 
-**Today's Progress**: Preparing environment: 
+**Today's Progress**: Preparing environment:
 * updated Windows to latest feature update
 * installed ~~WSL2~~ WSL (apparently WSL2 doesn't work with my Comodo Firewall though a patch is on it's way I'll just start with WSL which also works pretty well)
 * installed OpenSuse (I already use Ubuntu at work so it's time for a change)
@@ -64,7 +64,7 @@ Java Integration kind of works but it'll probably never be as good as IntelliJ o
 ### Day 7: Sunday December 27, 2020
 **Today's Progress**: More Ruby today but I'm working on my dice roller. I've added parsing of the advantage/disadvantage modifier and improved the general code quality a bit using Rubocop.
 
-**Thoughts:**: A bit a longer thought today, looking back at the previous week. 
+**Thoughts:**: A bit a longer thought today, looking back at the previous week.
 
 There are a couple of reasons I started this challenge:
 1. There's not much to do during this global pandemic so I have a lot of spare time that I want to spend on something I like
@@ -74,11 +74,11 @@ There are a couple of reasons I started this challenge:
 
 As for the number 1, having at least an hour a day that I can spend on coding is a good use of my extra spare time. I have to be honest that in the past 1,5 I have had my doubts about my job as a coder (due to loads of stress) so spending some stress-free time on coding only made me realize I still like it, I just don't like the stressy environments (hence the reason I quit consultancy).
 
-For the second item on the list, I can already tell you that I learned a lot and there's so much that I've learned that I want to take with me in my day2day job. Ruby is a bit a quirky language if you come from Java, but that's why I love it, it's nothing like Java. Being only at the 14th place in the list of popular technologies of the (2020 Stackoverflow Survey)[https://insights.stackoverflow.com/survey/2020#technology-programming-scripting-and-markup-languages-all-respondents] it certainly isn't the most popular technology to working in, but I don't mind that. 
+For the second item on the list, I can already tell you that I learned a lot and there's so much that I've learned that I want to take with me in my day2day job. Ruby is a bit a quirky language if you come from Java, but that's why I love it, it's nothing like Java. Being only at the 14th place in the list of popular technologies of the (2020 Stackoverflow Survey)[https://insights.stackoverflow.com/survey/2020#technology-programming-scripting-and-markup-languages-all-respondents] it certainly isn't the most popular technology to working in, but I don't mind that.
 
-It's only been a week but I'm starting to get the hang of Ruby so I *think* my Ruby skills are already improving. I'm also starting to appreciate Linters a lot more, they are a PITA and slow you down at first but they do give the immediate feedback you need (and will never get from a code review). 
+It's only been a week but I'm starting to get the hang of Ruby so I *think* my Ruby skills are already improving. I'm also starting to appreciate Linters a lot more, they are a PITA and slow you down at first but they do give the immediate feedback you need (and will never get from a code review).
 
-For the last part ... well it's not *bad*. It's versatile and works with a lot of languages and it's actually pretty stable and fast. I'm still not a fan of the Java integration, IntelliJ (Ultimate) and Eclipse just do it better. For small projects like J-ExifTool it should be sufficient I guess but I can't image developing our Spring Boot micro-service in VSCode. 
+For the last part ... well it's not *bad*. It's versatile and works with a lot of languages and it's actually pretty stable and fast. I'm still not a fan of the Java integration, IntelliJ (Ultimate) and Eclipse just do it better. For small projects like J-ExifTool it should be sufficient I guess but I can't image developing our Spring Boot micro-service in VSCode.
 
 One side-note I want to add, I'm still a bit of a cheater since I didn't participate in the online community thing of the #100DaysOfCode challenge (didn't tweet a lot about it either), but the most important thing is that I'm still doing it. Second, I'm also going to skip every Wednesday but count them as actual days of the challenge so instead it'll probably be a #115DaysOfCOde for me 🙂
 
@@ -91,7 +91,17 @@ One side-note I want to add, I'm still a bit of a cheater since I didn't partici
 
 Maybe it's the perfectionist in me that doesn't like me getting wrong answers. I'm probably even more offset because I just read that some people spent 12 min on day 4, just jabbing some code in a JS console and I'm here working my ass off for an hour just to get wrong answers. But that's just my personallity, hopefully I'm still motivated tomorrow after another day of work.
 
-### Day 9: Monday December 29, 2020
+### Day 9: Tuesday December 29, 2020
 **Today's Progress**: Today I've spent some time on further upgrading J-Exiftool to 2020 (and now I realize that's stupid because 2020 is about to end 😅)
 
-**Thoughts:**: Somehow I have the feeling that updating J-Exiftool is a bit cheating. Java is my main language and updating some dependencies and doing small code improvements isn't exactly a big challenge right. Still, after a long day of working (and hardly getting the chance to write some code) I'm still happy to be coding without any strings attached. 
+**Thoughts:**: Somehow I have the feeling that updating J-Exiftool is a bit cheating. Java is my main language and updating some dependencies and doing small code improvements isn't exactly a big challenge right. Still, after a long day of working (and hardly getting the chance to write some code) I'm still happy to be coding without any strings attached.
+
+### Day 10: Wednesdays December 30, 2020
+**Today's Progress**: No progress, it's my habitual skip day
+
+### Day 11: Thursday December 31, 2020
+**Today's Progress**: Started a new Ruby project. Not much progress after an hour because there's still the overhead of setting it up and getting everything right. I can run through directories already, next step will be to process all files and store the results in SQLLite.
+
+**Thoughts:** I'm still struggling with the basics of Ruby but practice makes progress.
+
+**Link to work:** [photo-graph](https://github.com/PW999/photo-graph)
