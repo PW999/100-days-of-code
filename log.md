@@ -3,7 +3,7 @@
 ### Day 0: December 20, 2020
 
 
-**Today's Progress**: Preparing environment:
+**Today's Progress:** Preparing environment:
 * updated Windows to latest feature update
 * installed ~~WSL2~~ WSL (apparently WSL2 doesn't work with my Comodo Firewall though a patch is on it's way I'll just start with WSL which also works pretty well)
 * installed OpenSuse (I already use Ubuntu at work so it's time for a change)
@@ -20,7 +20,7 @@
 
 ### Day 1: Monday December 21, 2020
 
-**Today's Progress**: Spend about 1,5h on it. Wrote very little Ruby code because my VSCode setup was still very basic and needed some tweaking. On the plus-side, I already wrote one unit test and I can run all my Ruby code with just a simple CTRL+ALT+N command in VSCode.
+**Today's Progress:** Spend about 1,5h on it. Wrote very little Ruby code because my VSCode setup was still very basic and needed some tweaking. On the plus-side, I already wrote one unit test and I can run all my Ruby code with just a simple CTRL+ALT+N command in VSCode.
 
 **Thoughts:** I still feel the headache from yesterday and my fingers are freezing off because I have the window open for some fresh air. I'm glad I have a silly project to work on and I hope to learn a lot from it. I've decided to dedicate myself to a no-zero days style instead of the very strict 1h rule.
 
@@ -28,7 +28,7 @@
 
 ### Day 2: Tuesday December 22, 2020
 
-**Today's Progress**: Worked on a system to roll multiple dice, with advantage or disadvantage. Seems to work as it should. I kind of cheated with the mocks in my unit tests by exposing a method to inject these mocks (but it's not production code anyway). I didn't want to start using RSpec or Minitest yet, I first want to "master" the basics of unit tests in Ruby.
+**Today's Progress:** Worked on a system to roll multiple dice, with advantage or disadvantage. Seems to work as it should. I kind of cheated with the mocks in my unit tests by exposing a method to inject these mocks (but it's not production code anyway). I didn't want to start using RSpec or Minitest yet, I first want to "master" the basics of unit tests in Ruby.
 
 **Thoughts:** First day I'm doing this _after_ a working day. It already was a long day with lots of issues to investigate so I was kind of not in the mood but I didn't want to fail on my second day so I fired up my laptop anyway. It felt like I had already forgotten everything and I'm constantly using Java syntax in my Ruby code, but luckily the Linter warns me in time. Unit tests also save me a lot of time (though I wrote my code first and then my tests, which is kind of bad).
 
@@ -36,17 +36,17 @@
 
 ### Day 3: Wednesday December 23, 2020
 
-**Today's Progress**: Skipped today. Wednesday is family day, my mom is the only person I get to see during this pandemic so I'm not going to sacrifice it for some Ruby code. Will probably skip more Wednesdays.
+**Today's Progress:** Skipped today. Wednesday is family day, my mom is the only person I get to see during this pandemic so I'm not going to sacrifice it for some Ruby code. Will probably skip more Wednesdays.
 
 ### Day 4: Thursday December 24, 2020
 
-**Today's Progress**: Spent some time on making my code cleaner. Started on working on a parser for the user input but progress is slow as I still need to figure out how to parse it.
+**Today's Progress:** Spent some time on making my code cleaner. Started on working on a parser for the user input but progress is slow as I still need to figure out how to parse it.
 
 **Thoughts:** I start to get how Ruby can be used to write as little code as possible (which does not mean the most readable code). With every line of Ruby I write I have the feeling that I loose a bit of feeling with Java. TDD is nice but, especially for little projects like these.
 
 ### Day 5: Friday December 25, 2020
 
-**Today's Progress**: The dice roller now works. Next step is to extend is so that we can define which damage is rolled. Since there's not much to do on a lock-down Christmas I decided to spend some more time getting an old project back-up and running: J-ExifTool.
+**Today's Progress:** The dice roller now works. Next step is to extend is so that we can define which damage is rolled. Since there's not much to do on a lock-down Christmas I decided to spend some more time getting an old project back-up and running: J-ExifTool.
 
 **Thoughts:** I get the feeling that Ruby isn't always the most consistent language but that might just be me. I do get to like it more though and I'm also starting to get the hang of Visual Studio Code.
 
@@ -55,14 +55,14 @@ Java Integration kind of works but it'll probably never be as good as IntelliJ o
 **Link to work:** [Revival branch](https://bitbucket.org/P_W999/j-exiftool/branches/compare/feature/21..)
 
 ### Day 6: Saturday December 26, 2020
-**Today's Progress**: Back to Ruby. I started the Advent of Code 2020 challenge (the day _after_ Christmas ...) and they are great little challenges to learn Ruby. I finished the 4 challenges of the first 2 days without any error (in the result, not the code :) )
+**Today's Progress:** Back to Ruby. I started the Advent of Code 2020 challenge (the day _after_ Christmas ...) and they are great little challenges to learn Ruby. I finished the 4 challenges of the first 2 days without any error (in the result, not the code :) )
 
 **Thoughts:**: Not sure if I spent an hour on coding but I had a great time and that's what counts I guess.
 
 **Link to work:** [AoC 2020 Repo](https://github.com/PW999/AoC2020/)
 
 ### Day 7: Sunday December 27, 2020
-**Today's Progress**: More Ruby today but I'm working on my dice roller. I've added parsing of the advantage/disadvantage modifier and improved the general code quality a bit using Rubocop.
+**Today's Progress:** More Ruby today but I'm working on my dice roller. I've added parsing of the advantage/disadvantage modifier and improved the general code quality a bit using Rubocop.
 
 **Thoughts:**: A bit a longer thought today, looking back at the previous week.
 
@@ -85,22 +85,22 @@ One side-note I want to add, I'm still a bit of a cheater since I didn't partici
 **Link to work:** [Ruby Dice Roller](https://github.com/PW999/5e-dice-roller)
 
 ### Day 8: Monday December 28, 2020
-**Today's Progress**: Worked on Advent of Code 2020 Day 4 today.
+**Today's Progress:** Worked on Advent of Code 2020 Day 4 today.
 
 **Thoughts:**: I wasn't as motived as usual, I don't know why but it took me a while before I finally wanted to start. Yesterday I also completed day 3 in AoC and today day 4 and both days were a lot of trial-and-error (okay, not really but got a few wrong answers).
 
 Maybe it's the perfectionist in me that doesn't like me getting wrong answers. I'm probably even more offset because I just read that some people spent 12 min on day 4, just jabbing some code in a JS console and I'm here working my ass off for an hour just to get wrong answers. But that's just my personallity, hopefully I'm still motivated tomorrow after another day of work.
 
 ### Day 9: Tuesday December 29, 2020
-**Today's Progress**: Today I've spent some time on further upgrading J-Exiftool to 2020 (and now I realize that's stupid because 2020 is about to end 😅)
+**Today's Progress:** Today I've spent some time on further upgrading J-Exiftool to 2020 (and now I realize that's stupid because 2020 is about to end 😅)
 
 **Thoughts:**: Somehow I have the feeling that updating J-Exiftool is a bit cheating. Java is my main language and updating some dependencies and doing small code improvements isn't exactly a big challenge right. Still, after a long day of working (and hardly getting the chance to write some code) I'm still happy to be coding without any strings attached.
 
 ### Day 10: Wednesdays December 30, 2020
-**Today's Progress**: No progress, it's my habitual skip day
+**Today's Progress:** No progress, it's my habitual skip day
 
 ### Day 11: Thursday December 31, 2020
-**Today's Progress**: Started a new Ruby project. Not much progress after an hour because there's still the overhead of setting it up and getting everything right. I can run through directories already, next step will be to process all files and store the results in SQLLite.
+**Today's Progress:** Started a new Ruby project. Not much progress after an hour because there's still the overhead of setting it up and getting everything right. I can run through directories already, next step will be to process all files and store the results in SQLLite.
 
 **Thoughts:** I'm still struggling with the basics of Ruby but practice makes progress.
 
