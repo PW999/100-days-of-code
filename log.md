@@ -105,3 +105,12 @@ Maybe it's the perfectionist in me that doesn't like me getting wrong answers. I
 **Thoughts:** I'm still struggling with the basics of Ruby but practice makes progress.
 
 **Link to work:** [photo-graph](https://github.com/PW999/photo-graph)
+
+### Day 12: Friday January 01, 2021
+**Today's Progress:** Continued on the photo-graph application. It can now store the data to a SQLite database so almost all pieces are finished, just need to integrate with the Pixela API and then stitch it all toghether.
+
+**Thoughts:** The more I use Ruby to more I grow fond of it, it's great for simple and small scripts, in a couple of hours you get something functioning. The same is probably true for Python but we're not using that at work.
+
+Yesterday I realised that a year ago I would have never done this with my work in mind. Leaving the consultancy world in favour for an internal position was such a life saver for me and I still do not regret it.
+
+**Link to work:** [photo-graph](https://github.com/PW999/photo-graph)
