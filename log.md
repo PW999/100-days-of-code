@@ -106,7 +106,7 @@ Maybe it's the perfectionist in me that doesn't like me getting wrong answers. I
 
 **Link to work:** [photo-graph](https://github.com/PW999/photo-graph)
 
-### Day 12: Friday January 01, 2021
+### Day 12: Friday January 01, 2021 🎉🎊
 **Today's Progress:** Continued on the photo-graph application. It can now store the data to a SQLite database so almost all pieces are finished, just need to integrate with the Pixela API and then stitch it all toghether.
 
 **Thoughts:** The more I use Ruby to more I grow fond of it, it's great for simple and small scripts, in a couple of hours you get something functioning. The same is probably true for Python but we're not using that at work.
