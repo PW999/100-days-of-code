@@ -114,3 +114,9 @@ Maybe it's the perfectionist in me that doesn't like me getting wrong answers. I
 Yesterday I realised that a year ago I would have never done this with my work in mind. Leaving the consultancy world in favour for an internal position was such a life saver for me and I still do not regret it.
 
 **Link to work:** [photo-graph](https://github.com/PW999/photo-graph)
+
+
+### Day 13: Saterday January 02, 2021
+**Today's Progress:** Today I helped a friend with a Firebase project. Wrote my first Firebase functions (which are like AWS Lambda's) and got the whole emulator thing up & running.
+
+**Thoughts:** I'm all over the place with my 100 days of code 😂. I started with Ruby, then got me some Java and now I'm doing Node.JS/Firebase. I know way to little of Node.JS and modern Javascript to write proper code so tomorrow I'll probably first setup a proper linter to aid me writing some clean code.
