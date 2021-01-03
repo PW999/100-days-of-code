@@ -120,3 +120,17 @@ Yesterday I realised that a year ago I would have never done this with my work i
 **Today's Progress:** Today I helped a friend with a Firebase project. Wrote my first Firebase functions (which are like AWS Lambda's) and got the whole emulator thing up & running.
 
 **Thoughts:** I'm all over the place with my 100 days of code 😂. I started with Ruby, then got me some Java and now I'm doing Node.JS/Firebase. I know way to little of Node.JS and modern Javascript to write proper code so tomorrow I'll probably first setup a proper linter to aid me writing some clean code.
+
+### Day 14: Saterday January 03, 2021
+**Today's Progress:** Continued working on the Firebase project. Cleaned up a lot of my Javascript bad habbits thanks to ESLint and slowly building a whole army of Firebase functions to power the system.
+
+**Thoughts:** This is the second week, time for a deeper thought.
+
+I've been working on a lot of different things, my 5e Dice Roller (Ruby), Advent of Code (Ruby), my old J-Exif library (Java), Photo-graph (Ruby) and since yesterday the Firebase project (Javascript/Node.JS). Two weeks ago I hardly had any clue about what I would create and it's been like that for a loooooong time. Call it a writer's block but inspiration was lacking and it stopped me from doing things. The fact that I have a lot of (small) projects actually pretty well proofs the point Mark Manson's "Do Something" principle (for thos who've read The Subtle Art of not Giving a Fuck). The simple act of acting results in inspiration which in turns creates motivation for more action.
+
+I already mentioned it on day 12, but I really do like programming a lot more now that I can do it in my spare time. Having spent 10 years in consultancy, working for an awesome multinational that slowly turned into the greatest nightmare of itself (spoiler alert: they stripped us from our freedom and only cared about money, not the client, not their employees) almost made me believe that software development was just not my thing.
+Having put all my energy into this shitty company, losing everything I loved and lived for almost made me reconsider certain life choices. And so I did; goodbey consultancy, hello internal position close to home, hello well-balanced work-life balance and hello #100DaysOfCode motivation (and hello Corona ... wtf).
+
+So ***if you ever doubt about starting 100DaysOfCode***, I can only recommend that you *just so something*. Even if you've only coded for 20 minutes ... at least it's something ¯\\\_(ツ)\_/¯, it's better than doing nothing at all.
+
+If you lack inspiration, you can try [AdventOfCode](https://adventofcode.com), they have funny, little programming excercices that usually are focussed on one aspect (like arrays, regular expressions, ... you just have to figure it out). There's 5 year worth of advents to finish so it'll keep you busy for a while.
