@@ -134,3 +134,8 @@ Having put all my energy into this shitty company, losing everything I loved and
 So ***if you ever doubt about starting 100DaysOfCode***, I can only recommend that you *just so something*. Even if you've only coded for 20 minutes ... at least it's something ¯\\\_(ツ)\_/¯, it's better than doing nothing at all.
 
 If you lack inspiration, you can try [AdventOfCode](https://adventofcode.com), they have funny, little programming excercices that usually are focussed on one aspect (like arrays, regular expressions, ... you just have to figure it out). There's 5 year worth of advents to finish so it'll keep you busy for a while.
+
+### Day 15: Monday January 04, 2021
+**Today's Progress:** Not much progress, I've spent 45 minutes getting ESLint to work again.
+
+**Thoughts:** I've had a lot of things confirmed and again I get the confirmation the the Node eco-system is a hatefull thing.
