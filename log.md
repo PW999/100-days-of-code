@@ -139,3 +139,8 @@ If you lack inspiration, you can try [AdventOfCode](https://adventofcode.com), t
 **Today's Progress:** Not much progress, I've spent 45 minutes getting ESLint to work again.
 
 **Thoughts:** I've had a lot of things confirmed and again I get the confirmation the the Node eco-system is a hatefull thing.
+
+### Day 16: Tuesday January 05, 2021
+**Today's Progress:** Worked on my photo-graph app. It's running but it's slow because it's iterating the images on my NAS (over wifi)
+
+**Thoughts:** I was going to use the Pixela API (and probably will) but I think I'm going to challenge myself by creating the image myself using something like SVG.
