@@ -144,3 +144,14 @@ If you lack inspiration, you can try [AdventOfCode](https://adventofcode.com), t
 **Today's Progress:** Worked on my photo-graph app. It's running but it's slow because it's iterating the images on my NAS (over wifi)
 
 **Thoughts:** I was going to use the Pixela API (and probably will) but I think I'm going to challenge myself by creating the image myself using something like SVG.
+
+### Day 17: Wednesday January 06, 2021
+**Today's Progress:** My weekly skip day
+
+### Day --: Friday Thursday 07, 2021
+**Today's Progress:** Listen to your body, so I skipped today since I strained my wrist a it.
+
+### Day 18: Friday January 08, 2021
+**Today's Progress:** Continued in Ruby on the photo-graph. Still struggling with the API's but I'm getting used to it.
+
+**Thoughts:** Wasn't really motived but did it anyway.
