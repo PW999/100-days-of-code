@@ -155,3 +155,9 @@ If you lack inspiration, you can try [AdventOfCode](https://adventofcode.com), t
 **Today's Progress:** Continued in Ruby on the photo-graph. Still struggling with the API's but I'm getting used to it.
 
 **Thoughts:** Wasn't really motived but did it anyway.
+
+
+# Break #
+It's only been two weeks and half but I have decided to give this challenge a break because it's somewhat conflicting with another goal I've set myself: reduce my screentime. So spending another hour behind the screen after a days of work will make it very hard for me to keep up with that challenge (it's not that I'm doing very well on that one either).
+
+I'll probably enjoy a bit of coding from time to time but not an hour a day.
